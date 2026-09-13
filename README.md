@@ -69,14 +69,14 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 <p><b>Focus:</b> Low-latency video inference &amp; accurate landmark tracking.</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/apoorva-6575/GEOTRUST-AI">GEOTRUST-AI</a></h4>
-<p>Multi-source intelligence and trust-scoring platform for predictive flood risk assessment and geospatial analysis.</p>
+<h4><a href="https://github.com/apoorva-6575/FlexQuizz">FlexQuizz</a></h4>
+<p>An intelligent web application that leverages the Gemini API to generate dynamic, customizable quizzes on any topic.</p>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Geo--Spatial-4CAF50?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
 </p>
-<p><b>Focus:</b> Data fusion across diverse environmental telemetry sources.</p>
+<p><b>Focus:</b> AI-driven content generation, interactive UI, and prompt engineering.</p>
 </td>
 </tr>
 <tr>
