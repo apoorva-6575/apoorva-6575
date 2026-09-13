@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Apoorva+Kala+%F0%9F%91%8B;BTech+CSE+%7C+AI%2FML+%26+Computer+Vision;Building+assistive+tech+for+real+impact." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Apoorva+Kala;BTech+CSE+%7C+AI%2FML+%26+Computer+Vision;Building+assistive+tech+for+real+impact." alt="Typing SVG" />
 
 <br/>
 
@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 Engineering & Focus
+### Engineering & Focus
 
 I am a Computer Science undergraduate focused on **applied AI/ML, computer vision, and building resilient software**. My work centers on solving tangible problems — from real-time accessibility tech to offline-first platforms for underserved communities.
 
-- 🔭 **Current Focus:** Real-time multi-modal perception (gesture + emotion recognition) & geo-spatial AI scoring models.
-- 💡 **Engineering Philosophy:** Clean data pipelines, offline-first reliability, and purpose-driven UX.
-- 🎯 **Looking to collaborate on:** Open-source AI tools, assistive technology, and machine learning infrastructure.
+- **Current Focus:** Real-time multi-modal perception (gesture + emotion recognition) & geo-spatial AI scoring models.
+- **Engineering Philosophy:** Clean data pipelines, offline-first reliability, and purpose-driven UX.
+- **Looking to collaborate on:** Open-source AI tools, assistive technology, and machine learning infrastructure.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -54,12 +54,12 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🤟 <a href="https://github.com/apoorva-6575/sign-language-emotion-recognition">SignSync — Sign &amp; Emotion Recognition</a></h4>
+<h4><a href="https://github.com/apoorva-6575/sign-language-emotion-recognition">SignSync — Sign & Emotion Recognition</a></h4>
 <p>Real-time vision pipeline combining hand-gesture interpretation and facial affect detection to assist communication for specially-abled children.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -69,7 +69,7 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 <p><b>Focus:</b> Low-latency video inference &amp; accurate landmark tracking.</p>
 </td>
 <td width="50%" valign="top">
-<h4>🛰️ <a href="https://github.com/apoorva-6575/GEOTRUST-AI">GEOTRUST-AI</a></h4>
+<h4><a href="https://github.com/apoorva-6575/GEOTRUST-AI">GEOTRUST-AI</a></h4>
 <p>Multi-source intelligence and trust-scoring platform for predictive flood risk assessment and geospatial analysis.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -81,8 +81,8 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>📱 <a href="https://github.com/apoorva-6575/hackx-rural-edtech-android">HackX Rural EdTech</a></h4>
-<p>Offline-first Android learner platform for HACKX 4.0, delivering structured education content in connectivity-sparse areas.</p>
+<h4><a href="https://github.com/apoorva-6575/hackx-rural-edtech-android">VidyaSaarthi — Accessible Education for Rural India</a></h4>
+<p>Offline-first Android learning companion built for HACKX 4.0, delivering structured curriculum content to students in connectivity-sparse rural areas.</p>
 <p>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -91,7 +91,7 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 <p><b>Focus:</b> Local caching, state persistence, and minimal bandwidth overhead.</p>
 </td>
 <td width="50%" valign="top">
-<h4>🎙️ <a href="https://github.com/apoorva-6575/SLID_GMM_UBM">SLID — Spoken Language Identification</a></h4>
+<h4><a href="https://github.com/apoorva-6575/SLID_GMM_UBM">SLID — Spoken Language Identification</a></h4>
 <p>Acoustic classification using GMM-UBM on the AI4Bharat Shrutilipi dataset for Indic language identification.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -105,7 +105,7 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
 
