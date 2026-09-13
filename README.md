@@ -57,7 +57,7 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/apoorva-6575/sign-language-emotion-recognition">SignSync — Sign & Emotion Recognition</a></h4>
+<h4><a href="https://github.com/apoorva-6575/sign-language-emotion-recognition">SignSyncro — Sign & Emotion Recognition</a></h4>
 <p>Real-time vision pipeline combining hand-gesture interpretation and facial affect detection to assist communication for specially-abled children.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
