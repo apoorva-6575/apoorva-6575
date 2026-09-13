@@ -5,8 +5,7 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=apoorva-6575&color=3b82f6&style=flat-square&label=Profile+Views)
+<!-- Social Badges -->
 
 <a href="https://linkedin.com/in/apoorva-kala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:apoorvakala4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
