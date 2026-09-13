@@ -109,17 +109,13 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=apoorva-6575&theme=tokyonight&hide_border=true&border_radius=8" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=apoorva-6575&theme=tokyonight&hide_border=true&border_radius=8&card_width=400" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=apoorva-6575&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide=issues&rank_icon=github" height="175"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-6575&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=6" height="175"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=apoorva-6575&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide=issues" height="160"/>
 
 </div>
 
