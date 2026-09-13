@@ -1,16 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3b82f6&height=170&section=header&text=Apoorva%20Kala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%7C%20AI%2FML%20%26%20Software%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Apoorva+Kala+%F0%9F%91%8B;BTech+CSE+%7C+AI%2FML+%26+Computer+Vision;Building+assistive+tech+for+real+impact." alt="Typing SVG" />
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/apoorva-kala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:apoorvakala4@gmail.com"><img src="https://img.shields.io/badge/Email-apoorvakala4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/apoorva-6575"><img src="https://img.shields.io/badge/GitHub-apoorva--6575-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br/>
+
+<!-- Profile Views + Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=apoorva-6575&color=3b82f6&style=flat-square&label=Profile+Views)
+
+<a href="https://linkedin.com/in/apoorva-kala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:apoorvakala4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/apoorva-6575"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br/>
+---
 
 ### 👨‍💻 Engineering & Focus
 
@@ -24,14 +28,27 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 
 ### 🧰 Tech Stack
 
-<div align="left">
+<div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python` `Kotlin` `TypeScript` `JavaScript` `C++` |
-| **AI / Machine Learning** | `PyTorch` `OpenCV` `MediaPipe` `Scikit-Learn` `GMM-UBM` `Speech Processing` |
-| **Development & Mobile** | `Android SDK` `Offline Core Architecture` `Node.js` `REST APIs` |
-| **Tools & Environments** | `Git` `GitHub Actions` `Linux` `Jupyter` `VS Code` |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -40,42 +57,55 @@ I am a Computer Science undergraduate focused on **applied AI/ML, computer visio
 ### 🚀 Selected Projects
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤟 <a href="https://github.com/apoorva-6575/sign-language-emotion-recognition">SignSync — Sign & Emotion Recognition</a></h4>
+      Real-time vision pipeline combining hand-gesture interpretation and facial affect detection to assist communication for specially-abled children.
 
-#### 🤟 [SignSync — Sign & Emotion Recognition](https://github.com/apoorva-6575/sign-language-emotion-recognition)
-Real-time vision pipeline combining hand-gesture interpretation and facial affect detection to assist communication for specially-abled children.
-- **Key Tech:** `Python` · `OpenCV` · `MediaPipe` · `Computer Vision`
-- **Focus:** Low-latency video inference & accurate landmark tracking.
+      <br/>
 
-</td>
-<td width="50%" valign="top">
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+      ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+      ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-#### 🛰️ [GEOTRUST-AI](https://github.com/apoorva-6575/GEOTRUST-AI)
-Multi-source intelligence and trust-scoring platform designed for predictive flood risk assessment and geospatial analysis.
-- **Key Tech:** `Python` · `Machine Learning` · `Geo-Spatial Analysis`
-- **Focus:** Data fusion across diverse environmental telemetry sources.
+      - **Focus:** Low-latency video inference & accurate landmark tracking.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛰️ <a href="https://github.com/apoorva-6575/GEOTRUST-AI">GEOTRUST-AI</a></h4>
+      Multi-source intelligence and trust-scoring platform for predictive flood risk assessment and geospatial analysis.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+      <br/>
 
-#### 📱 [HackX Rural EdTech](https://github.com/apoorva-6575/hackx-rural-edtech-android)
-Offline-first Android learner platform developed for HACKX 4.0, delivering structured education content in connectivity-sparse areas.
-- **Key Tech:** `Kotlin` · `Android` · `Offline Core`
-- **Focus:** Local caching, state persistence, and minimal bandwidth overhead.
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+      ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+      - **Focus:** Data fusion across diverse environmental telemetry sources.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/apoorva-6575/hackx-rural-edtech-android">HackX Rural EdTech</a></h4>
+      Offline-first Android learner platform developed for HACKX 4.0, delivering structured education content in connectivity-sparse areas.
 
-#### 🎙️ [SLID — Spoken Language Identification](https://github.com/apoorva-6575/SLID_GMM_UBM)
-Acoustic classification system utilizing Gaussian Mixture Model - Universal Background Models (GMM-UBM) on the AI4Bharat Shrutilipi dataset.
-- **Key Tech:** `Python` · `Audio Signal Processing` · `GMM-UBM`
-- **Focus:** Feature extraction (MFCCs) and acoustic modeling for Indic languages.
+      <br/>
 
-</td>
-</tr>
+      ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+      ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+      - **Focus:** Local caching, state persistence, and minimal bandwidth overhead.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎙️ <a href="https://github.com/apoorva-6575/SLID_GMM_UBM">SLID — Spoken Language Identification</a></h4>
+      Acoustic classification using GMM-UBM on the AI4Bharat Shrutilipi dataset for Indic language identification.
+
+      <br/>
+
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+      ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+      - **Focus:** MFCC feature extraction and acoustic modeling for Indic languages.
+    </td>
+  </tr>
 </table>
 
 ---
@@ -84,12 +114,24 @@ Acoustic classification system utilizing Gaussian Mixture Model - Universal Back
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=apoorva-6575&theme=tokyonight&hide_border=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-6575&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=apoorva-6575&theme=tokyonight&hide_border=true&border_radius=8" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-6575&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=6" height="175"/>
 
 </div>
 
 <br/>
 
-<!-- Footer Gradient Accent -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0d1117&height=80&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apoorva-6575&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide=issues" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building technology that removes barriers, one line of code at a time."*
+
+</div>
